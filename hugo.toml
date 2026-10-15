@@ -1,0 +1,96 @@
+# ==============================================================================
+# CONFIGURACIÓN GENERAL DEL SITIO
+# ==============================================================================
+baseURL = "https://localhost:1313/"
+title = "Es mi bloc de notas!!!"
+theme = "dream"
+
+defaultContentLanguage = "es"
+locale = "es"
+siteStartYear = 2026
+
+# ==============================================================================
+# PERFIL Y CABECERA
+# ==============================================================================
+[params]
+  author = "Moni Rani"
+  description = ":-D"
+  motto = "Escribir para habitar el tiempo"
+  avatar = "img/avatar2.png"
+  headerTitle = "Bloc de notas"
+  footerBottomText = "Hecho con 🖤"
+
+  # Enlaces de contacto y redes 
+  email = "monica.chance1225@gmail.com"
+  instagram = "moona@ranaa"
+  # x = "tu_usuario"
+
+  # ==============================================================================
+  # DISEÑO Y TEMAS DE COLOR
+  # ==============================================================================
+  lightTheme = "emerald"
+  darkTheme = "forest"
+  # zenMode = false
+  # backgroundImage = "img/global-background.jpg"
+  # backgroundImageDark = ""
+
+  # ==============================================================================
+  # NAVEGACIÓN E INTERACTIVIDAD
+  # ==============================================================================
+  # Búsqueda global interactiva
+  showSearch = true
+  
+  # Barra de navegación fija arriba al hacer scroll
+  stickyNav = true
+  
+  # Orden de los botones en la barra de menú
+  reorderNavItems = ["about", "search", "posts", "categories", "tags", "rss"]
+  
+  # Agrupa "posts" y "categories"  dentro de un submenú desplegable
+  collapseNavItems = []
+
+  #enlaces personalizados
+  [params.navItems.instagram]
+  href = "https://www.instagram.com/moona_ranaa/"
+  target = "_blank"
+  icon = "logo-instagram"
+  title = "Instagram" 
+
+  # Configuración de imágenes de portada en artículos
+  showSummaryCoverInPost = true
+  noDefaultSummaryCover = false
+  imageZoomableInPost = true
+  
+  # Otras interacciones de lectura
+  #showTableOfContents = true
+  #showPrevNextPost = true
+  reorderShares = ["x", "facebook", "whatsapp"]
+  
+  #wirgeet de comentarios 
+  utteranceRepo = ""
+
+# ==============================================================================
+# FORMATO DE TEXTO Y MARKDOWN (REQUERIDO PARA POESÍA)
+# ==============================================================================
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+
+# ==============================================================================
+# OPCIONES AVANZADAS Y COMENTARIOS (SISTEMAS EXTERNOS)
+# ==============================================================================
+# [params.advanced]
+#   customCSS = ["css/custom.css"]
+#   customJS = []
+
+# [params.experimental]
+#   jsDate = true
+#   jsDateFormat = "yyyy年MM月dd日"
+
+# [services]
+#   [services.disqus]
+#     shortname = ""
+#   [services.googleAnalytics]
+#     ID = ""
