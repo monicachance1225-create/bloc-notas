@@ -12,7 +12,7 @@
       <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
     {{ end }}
     {{ else }}
-    <img src="{{ .Params.cover | relURL }}" alt="{{ .Title }}" />
+    <img src="{{ strings.TrimPrefix "/" .Params.cover | relURL }}" alt="{{ .Title }}" />
     {{ end }}
   </figure>
   {{ else if not site.Params.noDefaultSummaryCover }}
