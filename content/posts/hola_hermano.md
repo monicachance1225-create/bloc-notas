@@ -6,7 +6,7 @@ cover: /img/hola_hermano.png
 categories: ["Reflexiones", "Cartas"]
 draft: false
 ---
-**Hola hermano**, ¿cómo te ha del otro lado?
+**Hola hermano**, ¿cómo te va del otro lado?
 Seis años pasan volando
 Aquí mucho ha cambiado
 <!--more-->

@@ -3,7 +3,7 @@ title: Que alguien le diga
 date: 2026-08-25
 author: Moni Rani
 cover: /img/alguien.png
-categories: ["Versos", "Vinculos", "Mexa"]
+categories: ["Versos", "Vínculos", "Mexa"]
 draft: false
 ---
 Me dieron gato por liebre

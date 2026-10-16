@@ -8,7 +8,7 @@ draft: false
 ---
 Los **ojos** de mi cara se nublan seguido
 confío en ellos pero confío más en mi latido 
-
+<!--more-->
 Los ojos de mi corazón para todo tienen opinión 
 y siempre los escucho, seguido tienen la razón 
 
