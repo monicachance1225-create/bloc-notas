@@ -14,11 +14,13 @@ siteStartYear = 2026
 # ==============================================================================
 [params]
   author = "Moni Rani"
-  description = ":-D"
+  description = "un blog hecho con 🖤"
   motto = "Escribir para habitar el tiempo"
   avatar = "img/avatar2.png"
   headerTitle = "Bloc de notas"
   footerBottomText = "Hecho con 🖤"
+  favicon = "<link rel=\"icon\" type=\"image/svg+xml\" href=\"/bloc-notas/favicon.svg\">"
+
 
   # Enlaces de contacto y redes 
   email = "monica.chance1225@gmail.com"
