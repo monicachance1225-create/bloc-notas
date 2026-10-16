@@ -4,10 +4,7 @@ date: 2026-08-12
 lastmod: 2026-08-12
 author: Moni Rani
 cover: /img/uno-otro.png
-categories:
-    -Poesía
-    -Romántico
-    -it girl
+categories: ["Versos", "Vínculos"]
 draft: false
 ---
 <!--more-->

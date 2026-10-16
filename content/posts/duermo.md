@@ -4,7 +4,7 @@ date: 2026-07-29
 lastmod: 2026-07-29
 author: Moni Rani
 cover: /img/duermo.png
-categories: ["Poesía", "Romántico"]
+categories: ["Vínculos", "Versos"]
 draft: false
 ---
 **duermo de ladito**

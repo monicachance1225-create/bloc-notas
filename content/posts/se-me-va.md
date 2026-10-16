@@ -4,8 +4,7 @@ date: 2026-09-02
 lastmod: 2026-09-03
 author: Moni Rani
 cover: /img/se-me-va.png
-categories:
-    -Poesía
+categories: ["Proceso creativo", "Reflexiones"]
 draft: false
 ---
 creo que **se me va la poesía**

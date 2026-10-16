@@ -4,8 +4,7 @@ date: 2026-08-14
 lastmod: 2026-08-14
 author: Moni Rani
 cover: /img/paramo.png
-categories:
-    - Fábula
+categories: ["Cuentos cortos", "Reflexiones", "Fantasía"]
 draft: false
 ---
 **Una flor y una rana**
@@ -40,5 +39,7 @@ Los amigos de la mano se tomaron
 y contemplaron las maravillas 
 de ese bello páramo. 
 	
+---
 
+*pd: te quieroo jiji*
 

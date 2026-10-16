@@ -4,10 +4,7 @@ date: 2026-08-03
 lastmod: 2026-08-03
 author: Moni Rani
 cover: /img/hot-girl.png
-categories:
-    -English
-    -Poesía
-    -Trashy
+categories: ["English", "Versos", "Proceso creativo"]
 lang: en
 draft: false
 ---

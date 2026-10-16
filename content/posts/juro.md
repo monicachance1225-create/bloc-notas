@@ -4,9 +4,7 @@ date: 2026-08-10
 lastmod: 2026-08-11
 author: Moni Rani
 cover: /img/juro.png
-categories: 
-    - Poesía
-    - Melancólico
+categories: ["Vínculos", "Reflexiones"]
 draft: false
 ---
 **te juro que no te quería marcar**

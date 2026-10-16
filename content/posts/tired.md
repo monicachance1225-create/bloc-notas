@@ -4,10 +4,7 @@ date: 2026-08-04
 lastmod: 2026-08-05
 author: Moni Rani
 cover: /img/tired.png
-categories:
-    -Poesía
-    -English
-    -Trashy
+categories: ["English", "Reflexiones"]
 lang: en
 draft: false
 ---

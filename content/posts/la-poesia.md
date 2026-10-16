@@ -4,8 +4,7 @@ date: 2026-08-25
 lastmod: 2026-08-25
 author: Moni Rani
 cover: /img/la-poesia.png
-categories:
-    -Poesía
+categories: ["Versos", "Onírico"]
 draft: false
 ---
 **La poesía que**

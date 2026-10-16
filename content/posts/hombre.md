@@ -4,8 +4,7 @@ date: 2026-08-04
 lastmod: 2026-10-10
 author: Moni Rani
 cover: /img/hombre.png
-categories:
-    -Erótico
+categories: ["Erótico"]
 draft: false
 ---
 **Hombre** que llora

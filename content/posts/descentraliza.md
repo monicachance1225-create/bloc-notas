@@ -4,8 +4,7 @@ date: 2026-08-17
 lastmod: 2026-08-19
 author: Moni Rani
 cover: /img/descentraliza.png
-categories:
-    - Poesía
+categories: ["Reflexiones", "Feminismo"]
 draft: false
 ---
 **Descentraliza a los hombres de tu vida**

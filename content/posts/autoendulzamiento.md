@@ -4,7 +4,7 @@ date: 2026-08-03
 lastmod: 2026-08-04
 author: Moni Rani
 cover: /img/dulce.png
-categories: ["Poesía", "Místico", "Mujer"]
+categories: ["Proceso creativo", "Reflexiones", "Ritual", "Feminismo", "Onírico"]
 draft: false
 ---
 Cómo hacer un **autoendulzamiento**

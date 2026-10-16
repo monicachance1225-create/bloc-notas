@@ -4,7 +4,7 @@ date: 2026-08-25
 lastmod: 2026-08-25
 author: Moni Rani
 cover: /img/coleccion.png
-categories: ["Poesía"]
+categories: ["Vínculos", "Versos"]
 draft: false
 ---
 Te quiero en mi **colección**.

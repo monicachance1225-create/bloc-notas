@@ -4,10 +4,7 @@ date: 2026-10-10
 lastmod: 2026-10-10
 author: Moni Rani
 cover: /img/encuentra.png
-categories:
-    - Poesía
-    - Romántico
-    - Nostálgico
+categories: ["Versos", "Cuentos cortos"]
 draft: false
 ---
 **Encuentra el camino**
@@ -25,7 +22,7 @@ Encuentra el camino
 hasta sus ojos soñadores
 recorre sus senderos
 y aunque sea por un momento
-de su calma. seremos invasores
+de su calma seremos invasores
 
 Entrega dulce o espinosa,
 catastrófica o jocosa

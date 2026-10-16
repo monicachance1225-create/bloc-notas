@@ -4,7 +4,7 @@ date: 2026-10-10
 lastmod: 2026-10-10
 author: Moni Rani
 cover: /img/acto.png
-categories: ["Poesía", "Mujer"]
+categories: ["Vínculos", "Sentires"]
 draft: false 
 ---
 Pasó tiempo

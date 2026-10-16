@@ -4,8 +4,7 @@ date: 2026-09-02
 lastmod: 2026-09-02
 author: Moni Rani
 cover: /img/ojos.png
-categories:
-    -Poesía
+categories: ["Versos", "Reflexiones", "Vínculos"]
 draft: false
 ---
 olvidé los **ojos** de mi cara en casa

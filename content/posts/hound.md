@@ -4,9 +4,7 @@ date: 2026-08-04
 lastmod: 2026-08-04
 author: Moni Rani
 cover: /img/hound.png
-categories:
-    -English
-    -Erótico
+categories: ["English", "Erótico"]
 draft: false
 ---
 my stomach's in my mouth
