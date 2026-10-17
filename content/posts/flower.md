@@ -6,7 +6,7 @@ cover: /img/flower.png
 categories: ["English", "Erótico"]
 draft: false
 ---
-How good that flower smelled, 
+How good that **flower** smelled, 
 Velvety buttery touch. 
 Surrenders between my fingers, 
 A scent like fruit punch. 
