@@ -1,5 +1,5 @@
 ---
-titel: te saludo
+title: te saludo
 date: 2026-10-10
 author: Moni Rani
 cover: /img/camarada.png

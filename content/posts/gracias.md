@@ -1,5 +1,5 @@
 ---
-titel: Gracias
+title: Gracias
 date: 2026-08-20
 author: Moni Rani
 cover: /img/gracias.png

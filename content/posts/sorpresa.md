@@ -1,12 +1,13 @@
 ---
-titel: Sorpresa
+title: Sorpresa
 date: 2026-10-10
 author: Moni Rani
 cover: /img/sorpresa.png
 categories: ["Versos", "Vínculos", "Cartas"]
 draft: false
 ---
-Hola.**Sorpresa.**El sitio es lindo, ¿no?. Casi tan lindo como
+
+Hola. **Sorpresa.** El sitio es lindo, ¿no?. Casi tan lindo como
 tu sonrisa y como tener una amiga. 
 
 No busco respuesta, por tanto no preguntaré. Sólo quiero escribir

@@ -1,5 +1,5 @@
 ---
-titel: Te veo
+title: Te veo
 date: 2026-10-10
 author: Moni Rani
 cover: /img/te_veo.png
