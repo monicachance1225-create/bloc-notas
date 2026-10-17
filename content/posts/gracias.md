@@ -12,7 +12,7 @@ sentir rara.
 <!--more-->
 Ésta puerta se cerró, gracias a Dios. 
 No diré que no debí abrirse. Por más
-cuentionable, aceptaré mi decisión. 
+cuestionable, aceptaré mi decisión. 
 
 Fuiste la enseñanza última para siempre
 escuchar a mis sentidos. No olvidarme del 

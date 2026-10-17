@@ -7,7 +7,7 @@ categories: ["Versos", "Vínculos", "Cartas"]
 draft: false
 ---
 
-Hola. **Sorpresa.** El sitio es lindo, ¿no?. Casi tan lindo como
+Hola. **Sorpresa.** El sitio es lindo, ¿no? Casi tan lindo como
 tu sonrisa y como tener una amiga. 
 <!--more-->
 No busco respuesta, por tanto no preguntaré. Sólo quiero escribir
@@ -15,7 +15,7 @@ que te quiero y te deseo el bien. Te lo deseo tanto como ayer, cuando
 sabíamos de la otra, pues eramos muestro presente. Y sin importar
 los giros del destino, mañana te pensaré. 
 
-Gracias amiga, mi bella I____l. 
+Gracias amiga, mi bella I____L. 
 
 ---
 
