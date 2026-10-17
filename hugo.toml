@@ -65,7 +65,7 @@ siteStartYear = 2026
   
   # Otras interacciones de lectura
   #showTableOfContents = true
-  #showPrevNextPost = true
+  showPrevNextPost = true
   reorderShares = ["x", "facebook", "whatsapp"]
   
   #wirgeet de comentarios 

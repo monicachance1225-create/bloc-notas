@@ -10,7 +10,7 @@ How good that flower smelled,
 Velvety buttery touch. 
 Surrenders between my fingers, 
 A scent like fruit punch. 
-
+<!--more-->
 A desperate tongue-
 The flower drips an elixir. 
 Every sip and lick 
