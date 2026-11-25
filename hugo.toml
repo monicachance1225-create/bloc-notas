@@ -52,9 +52,9 @@ siteStartYear = 2026
   collapseNavItems = []
 
   # Configuración de imágenes de portada en artículos
-  showSummaryCoverInPost = true
+  showSummaryCoverInPost = false
   noDefaultSummaryCover = true
-  imageZoomableInPost = true
+  imageZoomableInPost = false
   
   # Otras interacciones de lectura
   #showTableOfContents = true
