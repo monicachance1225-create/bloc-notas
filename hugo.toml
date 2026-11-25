@@ -51,16 +51,9 @@ siteStartYear = 2026
   # Agrupa "posts" y "categories"  dentro de un submenú desplegable
   collapseNavItems = []
 
-  #enlaces personalizados
-  [params.navItems.instagram]
-  href = "https://www.instagram.com/moona_ranaa/"
-  target = "_blank"
-  icon = "logo-instagram"
-  title = "Instagram" 
-
   # Configuración de imágenes de portada en artículos
   showSummaryCoverInPost = true
-  noDefaultSummaryCover = false
+  noDefaultSummaryCover = true
   imageZoomableInPost = true
   
   # Otras interacciones de lectura
@@ -70,6 +63,13 @@ siteStartYear = 2026
   
   #wirgeet de comentarios 
   utteranceRepo = ""
+
+  #enlaces personalizados
+  [params.navItems.instagram]
+  href = "https://www.instagram.com/moona_ranaa/"
+  target = "_blank"
+  icon = "logo-instagram"
+  title = "Instagram" 
 
 # ==============================================================================
 # FORMATO DE TEXTO Y MARKDOWN (REQUERIDO PARA POESÍA)

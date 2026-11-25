@@ -27,4 +27,4 @@ Río abajo
 nos encontraremos 
 
 ---
-*Amo cuando mis portadas son fotos que tomé. Esta es de algún tramo del Río Magdalena dentro del Parque Los dinamos. Y creo que podemos colaborar para que TUS fotos sean portadas. Si ves un poema que sientas que va bien con alguna foto de tu autoría, contáctame y la podemos publicar (!!!).*
+*Amo cuando mis portadas son fotos que tomé. Esta es de algún tramo del Río Magdalena dentro del Parque Los dinamos. Disfruto estar cerca del agua jiji*
