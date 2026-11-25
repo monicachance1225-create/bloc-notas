@@ -10,7 +10,7 @@ draft: false
 **La poesía que**
 Te tejí entre sueños
 Fue la más exquisita
-Que mis palabras jampas
+Que mis palabras jamás
 Pudieron crear
 <!--more-->
 Pero no fue y no será

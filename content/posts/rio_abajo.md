@@ -6,7 +6,7 @@ cover: /img/rio_abajo.jpeg
 categories: ["Versos", "Proceso Creativo", "Sentires"]
 draft: false
 ---
-Río abajo
+**Río abajo**
 nuestra casa
 Río abajo
 el cielo 
