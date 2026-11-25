@@ -16,7 +16,7 @@ siteStartYear = 2026
   author = "Moni Rani"
   description = "un blog hecho con 🖤"
   motto = "Escribir para habitar el tiempo"
-  avatar = "img/avatar2.png"
+  avatar = "img/avatar.png"
   headerTitle = "Es mi bloc de notas!!!"
   footerBottomText = "Hecho con 🖤"
   favicon = "<link rel=\"icon\" type=\"image/svg+xml\" href=\"/bloc-notas/favicon.svg\">"
