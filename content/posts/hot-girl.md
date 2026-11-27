@@ -16,7 +16,8 @@ and childhood trauma
 she's such a mess
 
 who's gonna try to tame me?
-i warn you
+i warn you 
 i bite
+
 whether you like it or not
 if i don't enjoy it, no one does

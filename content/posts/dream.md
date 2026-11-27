@@ -8,7 +8,7 @@ draft: false
 ---
 **Is this a dream?**
 Why are you here?
-Haven'tt you had enough?
+Haven't you had enough?
 What else do you want?
 My mind? My body? My soul?
 <!--more-->

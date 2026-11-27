@@ -38,7 +38,7 @@ Suéltalo chica, necesitas evacuar
 
 Mueve el cuerpo, mana
 Respiración oceánica y con la panza 
-Baño de luz de luna
+Baños de sol por la mañana
 Sirve el yoga y la danza
 
 Si el sentipensar pica o raspa
